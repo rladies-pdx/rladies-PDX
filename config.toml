@@ -28,6 +28,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     description = "R-Ladies PDX is part of a world-wide organization to promote gender diversity in the R community."
+    customCSS = ["css/rladies.css"]
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
