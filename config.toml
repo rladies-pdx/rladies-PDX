@@ -1,0 +1,46 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "R-Ladies PDX"
+theme = "hugo-lithium-theme"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+[[menu.main]]
+    name = "Meetups"
+    url = "https://www.meetup.com/R-Ladies-PDX/"
+    weight = 2
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/apreshill/rladies-PDX"
+    weight = 3
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/RLadiesPDX"
+    weight = 4
+
+[params]
+    description = "R-Ladies PDX is part of a world-wide organization to promote gender diversity in the R community."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+
+    [params.logo]
+    url = "R-LadiesGlobal_RBG_online_LogoOnly.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+
