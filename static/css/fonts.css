@@ -66,10 +66,11 @@ a.symbol {
        url('../fonts/open-sans-v14-latin-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
 }
 
-body, .footer {
+body, h5, h6, .footer {
   font-family: 'Open Sans', serif;
 }
-h1, h2, h3, h4, h5, h6, .nav, .article-duration, .archive-item-link {
+h1, h2, h3, h4, .nav, .article-duration, .archive-item-link {
   font-family: 'Oswald', sans-serif;
+  letter-spacing: 2px;
 }
 
