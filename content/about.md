@@ -8,3 +8,8 @@ R-Ladies PDX is part of a worldwide organization to promote gender diversity in 
 R-Ladies PDX seeks to create a space where women are empowered to teach and are comfortable with asking questions. We welcome all those who will help us toward that goal. Individuals who identify as women can be leaders, mentors, and members/attendees; others are welcome to attend as event guests. The R-Ladies Global Code of Conduct can be found [here](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct).
 
 This website was built using the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium-theme).
+
+<p>Twitter symbol : <span class='symbol'>circletwitterbird</span></p>
+<p>Twitter symbol with unicode : <span class='symbol'>&#xe286;</span></p>
+<p><a href='#' class='symbol' title='circletwitterbird'>Follow us</a></p>
+<p>Unicode : <a href='#' class='symbol' title='&#xe286;'>Follow us</a></p>
