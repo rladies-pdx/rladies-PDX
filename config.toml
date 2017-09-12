@@ -11,18 +11,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "About"
+    pre = ""
     url = "/about/"
     weight = 1
 [[menu.main]]
     name = "Meetups"
+    pre = "fa-meetup"
     url = "https://www.meetup.com/R-Ladies-PDX/"
     weight = 2
 [[menu.main]]
     name = "GitHub"
+    pre = "fa-github"
     url = "https://github.com/apreshill/rladies-PDX"
     weight = 3
 [[menu.main]]
     name = "Twitter"
+    pre = "fa-twitter"
     url = "https://twitter.com/RLadiesPDX"
     weight = 4
 
@@ -44,4 +48,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
-

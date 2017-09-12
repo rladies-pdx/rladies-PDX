@@ -7,10 +7,11 @@
   color: #FFFFFF;
 }
 
+/*
 .nav-links a:hover {
   border-bottom: 3px solid rgba(255, 255, 255, 0.75);
   color: #FFFFFF;
-}
+}*/
 
 .article-title {
   color: #88398A;
@@ -25,3 +26,6 @@
 .article-content a:focus {
   background: rgba(136, 57, 138, 0.3);
 }
+
+
+
