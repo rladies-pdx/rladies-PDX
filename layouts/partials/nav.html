@@ -7,7 +7,7 @@
   </a>
   <ul class="nav-links">
     {{ range .Site.Menus.main }}
-    <li><a href="{{ .URL }}"><i class="fa {{ .Pre }} fa-lg fa-fw" aria-hidden="true"></i>{{ .Name }}</a></li>
+    <li><a href="{{ .URL }}"><i class="fa {{ .Pre }} fa-lg fa-fw" aria-hidden="true"></i>&nbsp; {{ .Name }}</a></li>
     {{ end }}
   </ul>
 </nav>

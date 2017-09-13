@@ -5,6 +5,7 @@ theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -17,21 +18,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Meetups"
     pre = "fa-meetup"
-    url = "https://www.meetup.com/R-Ladies-PDX/"
+    url = "/meetups/"
     weight = 2
-[[menu.main]]
-    name = "GitHub"
-    pre = "fa-github"
-    url = "https://github.com/apreshill/rladies-PDX"
-    weight = 3
 [[menu.main]]
     name = "Twitter"
     pre = "fa-twitter"
     url = "https://twitter.com/RLadiesPDX"
-    weight = 4
+    weight = 3
 
 [params]
-    description = "R-Ladies PDX is part of a world-wide organization to promote gender diversity in the R community."
+    description = "R-Ladies PDX is part of a world-wide organization to promote gender diversity in the R community. <br>To find more details about the R-Ladies global initiative, visit [rladies.org](https://rladies.org)."
+    chapter = "Portland, Oregon"
     customCSS = ["css/rladies.css"]
 
     # options for highlight.js (version, additional languages, and theme)

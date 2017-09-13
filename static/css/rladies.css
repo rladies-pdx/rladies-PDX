@@ -1,3 +1,36 @@
+/*home page from minimal */
+
+.intro {
+    margin: 25vh 0;
+}
+
+.intro > h1  {
+    color: #562457;
+    font-size: 12vh;
+    text-align: center;
+}
+
+.intro > h2 {
+    color: #181818;
+    font-size: 3vmin;
+    text-align: center;
+    overflow: auto;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 0px;
+}
+
+.intro > a {
+    border-bottom: 1px solid rgba(86, 36, 87, 0.5);
+    box-shadow: inset 0 -2px 0 rgba(86, 36, 87, 0.5);
+}
+
+/*changes to lithium theme*/
+
+h1, h2, h3, h4 {
+  color: #88398A;
+}
+
 .header {
   background: #88398A;
   border-bottom: 1px solid #88398A;
@@ -7,11 +40,9 @@
   color: #FFFFFF;
 }
 
-/*
 .nav-links a:hover {
-  border-bottom: 3px solid rgba(255, 255, 255, 0.75);
   color: #FFFFFF;
-}*/
+}
 
 .article-title {
   color: #88398A;
@@ -27,5 +58,97 @@
   background: rgba(136, 57, 138, 0.3);
 }
 
+.center-image {
+    display: block;
+    margin: auto;
+}
 
 
+
+.list-group {
+  padding-left: 0;
+  margin-bottom: 20px;
+}
+
+.list-group-item {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  margin-bottom: -1px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+
+.list-group-item:first-child {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+
+.list-group-item:last-child {
+  margin-bottom: 0;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+
+.fa-rladies {
+    color: #88398A;
+}
+
+
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn.active.focus {
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+.btn:hover,
+.btn:focus,
+.btn.focus {
+  color: #88398A;
+  text-decoration: none;
+}
+.btn:active,
+.btn.active {
+  background-image: none;
+  outline: 0;
+  -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+          box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+}
+.btn.disabled,
+.btn[disabled],
+fieldset[disabled] .btn {
+  cursor: not-allowed;
+  filter: alpha(opacity=65);
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  opacity: .65;
+}
+a.btn.disabled,
+fieldset[disabled] a.btn {
+  pointer-events: none;
+}
