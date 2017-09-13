@@ -1,4 +1,9 @@
-/*home page from minimal */
+/* formatting the landing page- index.html */
+
+.center-image {
+    display: block;
+    margin: auto;
+}
 
 .intro {
     margin: 25vh 0;
@@ -20,12 +25,11 @@
     letter-spacing: 0px;
 }
 
-.intro > a {
-    border-bottom: 1px solid rgba(86, 36, 87, 0.5);
-    box-shadow: inset 0 -2px 0 rgba(86, 36, 87, 0.5);
-}
-
 /*changes to lithium theme*/
+
+.fa-rladies {
+  color: #88398A;
+}
 
 h1, h2, h3, h4 {
   color: #88398A;
@@ -58,12 +62,7 @@ h1, h2, h3, h4 {
   background: rgba(136, 57, 138, 0.3);
 }
 
-.center-image {
-    display: block;
-    margin: auto;
-}
-
-
+/*add bootstrap list groups */
 
 .list-group {
   padding-left: 0;
@@ -91,64 +90,25 @@ h1, h2, h3, h4 {
   border-bottom-left-radius: 4px;
 }
 
-.fa-rladies {
-    color: #88398A;
-}
-
+/*add bootstrap button for form */
 
 .btn {
-  display: inline-block;
-  padding: 6px 12px;
-  margin-bottom: 0;
-  font-size: 14px;
-  font-weight: normal;
-  line-height: 1.42857143;
-  text-align: center;
-  white-space: nowrap;
-  vertical-align: middle;
-  -ms-touch-action: manipulation;
-      touch-action: manipulation;
-  cursor: pointer;
-  -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
-  background-image: none;
-  border: 1px solid transparent;
-  border-radius: 4px;
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    background: #562457;
+    color: #D3D3D3;
+    font-family: 'Lato', sans-serif;
 }
-.btn:focus,
-.btn:active:focus,
-.btn.active:focus,
-.btn.focus,
-.btn:active.focus,
-.btn.active.focus {
-  outline: 5px auto -webkit-focus-ring-color;
-  outline-offset: -2px;
+ 
+.btn:focus, 
+.btn:active:focus, 
+.btn.active:focus {
+    outline: 0 none;
 }
-.btn:hover,
-.btn:focus,
-.btn.focus {
-  color: #88398A;
-  text-decoration: none;
-}
-.btn:active,
-.btn.active {
-  background-image: none;
-  outline: 0;
-  -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
-          box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
-}
-.btn.disabled,
-.btn[disabled],
-fieldset[disabled] .btn {
-  cursor: not-allowed;
-  filter: alpha(opacity=65);
-  -webkit-box-shadow: none;
-          box-shadow: none;
-  opacity: .65;
-}
-a.btn.disabled,
-fieldset[disabled] a.btn {
-  pointer-events: none;
+
+.btn:hover {
+    color: #FFFFFF;
 }

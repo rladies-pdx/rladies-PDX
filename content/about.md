@@ -9,4 +9,4 @@ R-Ladies PDX seeks to create a space where women are empowered to teach and are 
 
 # About our site
 
-This website was built with :heart: using the [**blogdown**](https://github.com/rstudio/blogdown) package by RLady [Alison Presmanes Hill](https://apreshill.rbind.io). View the repository that creates this website on [GitHub](https://github.com/apreshill/rladies-PDX). The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium-theme).
+This website was built with :heart: using the [**blogdown**](https://github.com/rstudio/blogdown) package by R-Lady [Alison Presmanes Hill](https://apreshill.rbind.io). View the repository that creates this website on [GitHub](https://github.com/apreshill/rladies-PDX). The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium-theme).
