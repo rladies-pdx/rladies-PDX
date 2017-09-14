@@ -26,11 +26,11 @@
        url('../fonts/lato-v13-latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
 }
 
-body, h5, h6, .footer {
+body, h5, h6, .footer, .article-duration, .archive-item-link  {
   font-family: 'Lato', sans-serif;
 }
 
-h1, h2, h3, h4, .nav, .article-duration, .archive-item-link {
+h1, h2, h3, h4, .nav {
   font-family: 'Oswald', sans-serif;
   letter-spacing: 1.5px;
 }

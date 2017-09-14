@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://rladies-pdx.rbind.io/"
 languageCode = "en-us"
 title = "R-Ladies PDX"
 theme = "hugo-lithium-theme"
