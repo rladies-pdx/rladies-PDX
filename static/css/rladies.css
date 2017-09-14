@@ -115,7 +115,7 @@ h1, h2, h3, h4 {
 
 /* form formatting*/
 
-.textarea, .textbox, input {  
+input {  
   font-size: 15px;
   font-family: 'Lato', sans-serif; 
   display: block;
@@ -126,6 +126,8 @@ h1, h2, h3, h4 {
 }
 
 .boxsizingBorder {
+    font-size: 15px;
+  font-family: 'Lato', sans-serif; 
   width:100%;
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
