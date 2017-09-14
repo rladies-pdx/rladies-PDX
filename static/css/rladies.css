@@ -112,3 +112,50 @@ h1, h2, h3, h4 {
 .btn:hover {
     color: #FFFFFF;
 }
+
+/* form formatting*/
+
+.textarea, .textbox, input {  
+  font-size: 15px;
+  font-family: 'Lato', sans-serif; 
+  display: block;
+  width: 100%;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+.boxsizingBorder {
+  width:100%;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+  color: #562457;
+  font-family: 'Lato', sans-serif;
+  font-size: 13px;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color: #562457;
+  opacity: 1;
+  font-family: 'Lato', sans-serif; 
+  font-size: 13px;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color: #562457;
+  opacity:  1;
+  font-family: 'Lato', sans-serif;
+  font-size: 13px; 
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #562457;
+  font-family: 'Lato', sans-serif;
+  font-size: 13px; 
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #562457;
+  font-family: 'Lato', sans-serif; 
+  font-size: 13px; 
+}
