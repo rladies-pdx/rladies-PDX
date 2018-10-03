@@ -6,10 +6,20 @@
     <description>Recent content in Posts on R-Ladies PDX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Here we are rocking the r-blogathon using blowdown</title>
+      <link>/2018/10/03/here-we-are-rocking-the-r-blogathon-using-blowdown/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/03/here-we-are-rocking-the-r-blogathon-using-blowdown/</guid>
+      <description>It Took a Minute, But We’ve Got it Now! Learning to use a new tool is always such a mix of frustration and ahah moments. It’s nice to be in a room of people who are also learning and working together to figure out new things.
+ </description>
+    </item>
     
     <item>
       <title>Hacktoberfest 2018</title>
