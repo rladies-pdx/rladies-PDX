@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R-Ladies PDX</title>
+    <link>/</link>
+    <description>Recent content on R-Ladies PDX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hacktoberfest 2018</title>
+      <link>/2018/10/02/hacktoberfest-2018/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/02/hacktoberfest-2018/</guid>
+      <description>Welcome to Hacktoberfest 2018!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>R-Ladies PDX is part of a worldwide organization to promote gender diversity in the R community. We aspire to encourage and support women in Portland interested in learning or sharing their knowledge of R. For more information, contact us at pdx@rladies.org.
+R-Ladies PDX seeks to create a space where women are empowered to teach and are comfortable with asking questions. We welcome all those who will help us toward that goal.</description>
+    </item>
+    
+    <item>
+      <title>Propose a meetup</title>
+      <link>/form/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/form/</guid>
+      <description>What&#39;s your name? 
+What&#39;s your email address? 
+Your proposal:
+
+ Send   </description>
+    </item>
+    
+    <item>
+      <title>Meetups</title>
+      <link>/meetups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/meetups/</guid>
+      <description> Join the RLadies-PDX meetup group  Propose a meetup  Become a sponsor
+ </description>
+    </item>
+    
+  </channel>
+</rss>
