@@ -1,7 +1,6 @@
 ---
 title: "Meetups"
 author: "Alison Hill"
-date: "9/12/2017"
 output: html_document
 ---
 

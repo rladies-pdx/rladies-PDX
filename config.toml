@@ -14,17 +14,17 @@ enableEmoji = true
     name = "About"
     pre = ""
     url = "/about/"
-    weight = 1
+    weight = 2
 [[menu.main]]
     name = "Meetups"
     pre = "fa-meetup"
     url = "/meetups/"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "Twitter"
     pre = "fa-twitter"
     url = "https://twitter.com/RLadiesPDX"
-    weight = 3
+    weight = 4
 
 [params]
     description = "R-Ladies PDX is part of a world-wide organization to promote gender diversity in the R community. <br>To find more details about the R-Ladies global initiative, visit [rladies.org](https://rladies.org)."
