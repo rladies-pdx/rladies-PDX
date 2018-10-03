@@ -1,0 +1,39 @@
+---
+title: Gather
+author: Mary Anne Thygesen
+date: '2018-10-02'
+slug: gather
+categories: [R code]
+tags:
+  - R
+---
+
+#Tidy
+##Tidy Data is useful Data
+
+###Tidy Data is:
+Each variable must have its own column
+
+Each observation must have its own row
+
+Each value must have its own cell
+
+the function gather helps to make data tidy
+
+gather()
+has four main arguments
+data
+key & value
+
+key is the new name of a variable that will be created from column names
+value is the name of cell values to gather
+... which variables to gather
+can specify individual A,B,C,D or range A:D
+for columns not used -E, -F
+
+examples will come later
+
+```{r, message=FALSE, warning=FALSE}
+library (tidyverse)
+#gather()
+````
