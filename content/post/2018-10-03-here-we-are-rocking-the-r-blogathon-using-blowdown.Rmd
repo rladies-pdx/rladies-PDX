@@ -1,8 +1,8 @@
 ---
-title: Here we are rocking the r-blogathon using blowdown
+title: Here we are rocking the r-blogathon using blogdown
 author: Kelli Burkinshaw
 date: '2018-10-03'
-slug: here-we-are-rocking-the-r-blogathon-using-blowdown
+slug: here-we-are-rocking-the-r-blogathon-using-blogdown
 categories: []
 tags: []
 ---
