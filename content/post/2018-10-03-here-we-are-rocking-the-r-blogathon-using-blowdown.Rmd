@@ -1,0 +1,12 @@
+---
+title: Here we are rocking the r-blogathon using blowdown
+author: Kelli Burkinshaw
+date: '2018-10-03'
+slug: here-we-are-rocking-the-r-blogathon-using-blowdown
+categories: []
+tags: []
+---
+
+#It Took a Minute, But We've Got it Now!
+
+Learning to use a new tool is always such a mix of frustration and ahah moments. It's nice to be in a room of people who are also learning and working together to figure out new things.
