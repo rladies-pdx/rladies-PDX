@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2018/10/02/blog-blog-blog/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/10/02/hacktoberfest-2018/</loc>
     <lastmod>2018-10-02T00:00:00+00:00</lastmod>
   </url>

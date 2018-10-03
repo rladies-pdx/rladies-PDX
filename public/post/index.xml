@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Blog blog blog</title>
+      <link>/2018/10/02/blog-blog-blog/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/02/blog-blog-blog/</guid>
+      <description>Job postings of interest:
+Travel Demand Modeler &amp;amp; Data Scientist position at Metro
+Database Associate (remote)</description>
+    </item>
+    
+    <item>
       <title>Hacktoberfest 2018</title>
       <link>/2018/10/02/hacktoberfest-2018/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
@@ -35,7 +46,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/1/01/01/</guid>
-      <description>Pierrette’s first blog postcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+      <description>Pierrette’s first blog post       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>
