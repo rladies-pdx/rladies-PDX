@@ -1,6 +1,5 @@
 ---
 title: "About"
-date: "2016-05-05T21:48:51-07:00"
 ---
 
 R-Ladies PDX is part of a worldwide organization to promote gender diversity in the R community. We aspire to encourage and support women in Portland interested in learning or sharing their knowledge of R. For more information, contact us at <mailto:pdx@rladies.org>.
