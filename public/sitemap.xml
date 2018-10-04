@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2018/10/02/blog-blog-blog/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/10/02/hacktoberfest-2018/</loc>
     <lastmod>2018-10-02T00:00:00+00:00</lastmod>
   </url>
@@ -14,16 +19,6 @@
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/form/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/</loc>
   </url>
   
   <url>
@@ -39,6 +34,10 @@
     <loc>/post/</loc>
     <lastmod>2018-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/form/</loc>
   </url>
   
   <url>
